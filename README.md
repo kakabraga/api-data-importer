@@ -20,9 +20,9 @@ Demonstrar o consumo de uma API pública com `cURL`/`file_get_contents`, tratame
 ## 🧱 Estrutura de Arquivos
 
 📁 projeto/
-├── Database.php       # Classe de conexão com o banco usando PDO
-├── importador.php     # Script que consome a API e salva os dados
-└── README.md          # Documentação do projeto
+├── Database.php      
+├── importador.php    
+└── README.md        
 
 
 1. Clone o repositório:
