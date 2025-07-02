@@ -19,7 +19,8 @@ Demonstrar o consumo de uma API pública com `cURL`/`file_get_contents`, tratame
 
 ## 🧱 Estrutura de Arquivos
 
-📁 projeto/
+📁
+projeto/
 ├── Database.php      
 ├── importador.php    
 └── README.md        
