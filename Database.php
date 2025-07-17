@@ -1,6 +1,6 @@
 <?php 
  $db_name = "api_importer";
- $db_host = "db";
+ $db_host = "localhost";
  $db_user = "root";
  $db_pass = "1234";
 
